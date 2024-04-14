@@ -63,7 +63,7 @@ def create_color_image(text):
 
     # Specify DPI when saving
     dpi = 300
-    image.save(os.path.join(desktop_path, "FINAL_PROOF2.jpg"), dpi=(dpi, dpi))
+    image.save(os.path.join(desktop_path, "TORAH_LIGHT.jpg"), dpi=(dpi, dpi))
 
 # Hebrew alphabet
 hebrew_alphabet = 'אבגדהוזחטיכלמנסעפצקרשת'
